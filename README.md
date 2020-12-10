@@ -17,9 +17,13 @@ VLC (Windows): https://www.videolan.org/vlc/
 
 MyIPTV Player (Windows) (Recommended) : https://www.microsoft.com/en-us/p/myiptv-player/9pjj2nmbf0tr?activetab=pivot:overviewtab
 
+IPTV (android) : https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv 
+
 IPTV Lite - HD IPTV Player For android TV (Recommended) : https://play.google.com/store/apps/details?id=com.appsgallery.lite.iptv
 
-IPTV player (android) : https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
+VLC (android) : https://play.google.com/store/apps/details?id=org.videolan.vlc
+
+IPTV pro (android) : https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro
 
 IPTV Player play m3u playlist (IOS , IPAD , Apple TV) : https://apps.apple.com/us/app/iptv-player-play-m3u-playlist/id1303327384
 
