@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 ,Discovery HD
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1 ,animal planet HD
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 ,Sony MAX HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 ,JALSHA MOVIES
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,STAR GOLD SELECT
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ,STAR GOLD HD
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ,Jamuna TV
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 ,Bangla Vision
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 ,ATN Bangla
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 ,Channel i
+http://tv2.ebox.live:8080/live/ex-chi.m3u8
+#EXTINF:-1 ,RTV
+http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 ,Boishakhi TV
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:-1 ,NEWS 24
+http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:-1 ,DBC NEWS
+http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 ,ATN NEWS
+http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 ,GB
+http://tv2.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 ,MAASRANGA TV
+http://tv2.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 ,Channel 9
+http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 ,ZEE BANGLA CINEMA
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1 ,HBO HD
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 ,SONY PIX HD
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 ,STAR MOVIES HD
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 ,SONY MAX 2
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,SONY SIX HD
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 ,SONY ESPN
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 ,SONY TEN 1
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 ,SONY TEN 2
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 ,SONY TEN 3 HD
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 ,TEN SPORTS
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 ,PK TV
+http://tv2.ebox.live:8080/live/pk-tv.m3u8
+#EXTINF:-1 ,WILLOW HD
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 ,PTV SPORTS
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 ,SKY SPORTS CRICKET
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,SKY SPORTS MIX
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD HINDI
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ,STAR SPORTS 3
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 ,ZEE BANGLA HD
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 ,STAR JALSHA HD
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,COLORS BANGLA
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,STAR PLUS HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ,ZEE TV HD
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ,COLORS HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 ,SONY HD
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 ,SONY SUB HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 ,COLOR HD INFINITY
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1 ,nick
+http://tv2.ebox.live:8080/live/nick.m3u8
