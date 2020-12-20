@@ -1,31 +1,31 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-15.10.20]
-https://www.dropbox.com/s/e1l1g0h0jjf6khq/2.mp4?raw=1
+https://www.dropbox.com/s/e1l1g0h0jjf6khq/2.mp4?raw=1?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-16.10.20]
-https://www.dropbox.com/s/8fs9ng3sabjvi5k/3.mp4?raw=1
+https://www.dropbox.com/s/8fs9ng3sabjvi5k/3.mp4?raw=1?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbDqN3hRvnhb730DTuHNzNX7hSqjJqperPgA&usqp=CAU" group-title="Exclusive",Bachelor Point [EP-17.10.20]
-https://www.dropbox.com/s/g5n7dnsb4pd679k/4.mp4?raw=1
+https://www.dropbox.com/s/g5n7dnsb4pd679k/4.mp4?raw=1?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="IPL",T Sport [Regular Update]
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 1
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 2
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 3
-http://otv.ftpbd.net/streams/108/index.m3u8
+http://otv.ftpbd.net/streams/108/index.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2017/04/IPL-10-Logo-PNG.png" group-title="IPL",IPL Live 4
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangladeshi",1.BTV
-http://103.205.133.50/hls/btv.m3u8
+http://103.205.133.50/hls/btv.m3u8?@ShamimHossainOfficial
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladeshi",2.Ekattor
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8?@ShamimHossainOfficial
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [1]
-http://103.132.180.245:8080/2/index.m3u8
+http://103.132.180.245:8080/2/index.m3u8?@ShamimHossainOfficial
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangladeshi",3.GTV HD [2]
-http://103.132.180.245:8080/2/index.m3u8
+http://103.132.180.245:8080/2/index.m3u8?@ShamimHossainOfficial
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",4.DBC News
-http://103.205.133.50/hls/dbcnews.m3u8
+http://103.205.133.50/hls/dbcnews.m3u8?@ShamimHossainOfficial
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",5.News 24
-http://103.205.133.50/hls/news24.m3u8
+http://103.205.133.50/hls/news24.m3u8?@ShamimHossainOfficial
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi",6.Shomoy TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Bangladeshi",7.Independent
