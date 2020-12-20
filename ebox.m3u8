@@ -1,119 +1,119 @@
 #EXTM3U
 #EXTINF:-1 ,animal planet HD 
-http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,ZEE CINEMA
-http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Bflix Movies
-http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY MAX
-http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Somoy TV
-http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Independent tv
-http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Jamuna TV
-http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,ekattor tv
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Mytv
-http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Ntv
-http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,RTV
-http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,GTV
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Asian TV
-http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Channel i
-http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,dbc news
-http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,channel 9
-http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
-#EXTINF:-1 ,deepto
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8?@ShamimHossainOfficial
+#EXTINF:-1 ,Deepto
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,GTV
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Mohona tv
-http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SATV
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Duronto tv
-http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Anando tv
-http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,desh tv
-http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,ATN BANGLA
-http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Channel 24
-http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,asian TV
-http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8?
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Boishakhi TV
-http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Bangla Vision
-http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,TLC
-http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
-http://103.49.168.172:8081/ebox/in_natgeo_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_natgeo_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Sangeet Bangla
-http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,ATN Music
-http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Gaan Bangla
-http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,ZEE Bangla
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Star Jalsha hd
-http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Colors Bangla
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Ruposhi Bangla
-http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,DW
-http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,aljazeera news
-http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,BBC News
-http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY TEN 1
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY TEN 2
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY TEN 3
-http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY six
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
+http://103.49.168.172:8081/ebox/six/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY espn
-http://103.49.168.172:8081/ebox/espn/chunks.m3u8
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,adsports2
-http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,adsports3
-http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
+http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,adsports4
-http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
+http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,andpictures hd
-http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,and tv hd
-http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY tv
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,andflix hd
-http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Star Bharat
-http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,colors
-http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,zee tv
-http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Star Gold hd
-http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,movies now
-http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,Romedy now
-http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8?@ShamimHossainOfficial
 #EXTINF:-1 ,SONY SAB
-http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8?@ShamimHossainOfficial
